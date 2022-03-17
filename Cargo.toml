@@ -1,14 +1,10 @@
 [package]
 name = "assert_ok"
 version = "1.0.1"
+edition = "2018"
 authors = ["Jack Lloyd <jack@randombit.net>"]
+repository = "https://github.com/randombit/assert_ok"
 description = "A macro that asserts a Result is Ok"
 readme = "README.md"
-edition = "2018"
 license = "Apache-2.0 OR MIT"
 keywords = ["macro", "testing", "utility"]
-repository = "https://github.com/randombit/assert_ok"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]

@@ -1,6 +1,9 @@
 [package]
 name = "assert_ok"
 version = "0.1.0"
+authors = ["Jack Lloyd <jack@randombit.net>"]
+description = "A macro that asserts a Result is Ok"
+readme = "README.md"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html

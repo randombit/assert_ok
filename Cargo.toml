@@ -5,6 +5,8 @@ authors = ["Jack Lloyd <jack@randombit.net>"]
 description = "A macro that asserts a Result is Ok"
 readme = "README.md"
 edition = "2021"
+license = "Apache-2.0 OR MIT"
+keywords = ["macro", "testing", "utility"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

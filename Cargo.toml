@@ -1,6 +1,6 @@
 [package]
 name = "assert_ok"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Jack Lloyd <jack@randombit.net>"]
 description = "A macro that asserts a Result is Ok"
 readme = "README.md"

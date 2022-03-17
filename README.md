@@ -1,6 +1,9 @@
 assert_ok
 ============
 
+[![crates.io](https://img.shields.io/crates/v/assert_ok.svg)](https://crates.io/crates/assert_ok)
+[![docs.rs](https://docs.rs/assert_ok/badge.svg)](https://docs.rs/assert_ok)
+
 This crate contains a macro `assert_ok` which takes an expression and
 if the expression evaluates to an `Err`, panics with a useful
 message. If in contrast the expression evaluates to `Ok(v)` then it

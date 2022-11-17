@@ -1,6 +1,6 @@
 [package]
 name = "assert_ok"
-version = "1.0.1"
+version = "1.0.2"
 edition = "2018"
 authors = ["Jack Lloyd <jack@randombit.net>"]
 repository = "https://github.com/randombit/assert_ok"

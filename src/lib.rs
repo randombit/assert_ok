@@ -16,7 +16,7 @@ macro_rules! assert_ok {
         match $x {
             std::result::Result::Ok(v) => v,
             std::result::Result::Err(e) => {
-                panic!("Error calling {}: {:?}", stringify!(x), e);
+                panic!("Error calling {}: {:?}", stringify!($x), e);
             }
         }
     };
